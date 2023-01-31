@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 31 Jan 2023 14:14:34 at https://mypagetes.nicepage.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mypagetes.nicepage.io/ -O1 "E:\New folder\main" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:14:50	Error: 	"Not Found" (404) at link https://mypagetes.nicepage.io/Content/BundledScripts/ (from capp.nicepage.com/d05a0c2d4ca3edf75af06b45932e293777a06d36/nicepage.js)
+14:14:51	Error: 	"Not Found" (404) at link https://mypagetes.nicepage.io/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from capp.nicepage.com/d05a0c2d4ca3edf75af06b45932e293777a06d36/nicepage.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 12 links scanned, 9 files written (1824413 bytes overall) [315398 bytes received at 18552 bytes/sec], 1776233 bytes transferred using HTTP compression in 9 files, ratio 13%, 2.4 requests per connection
+(2 errors, 0 warnings, 0 messages)
